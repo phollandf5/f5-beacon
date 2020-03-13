@@ -16,12 +16,12 @@ import (
 
 type FunctionInput struct {
 	// F5CS account user name
-	Username string `json:"username"`
+	Username string `json:"p.holland@f5.com"`
 	// F5CS account password
-	Password string `json:"password"`
+	Password string `json:"47&^hhgk1&8khkhkdf2221G"`
 	// F5CS account prefered account
 	// See for details:https://clouddocs.f5.com/cloud-services/latest/f5-cloud-services-Beacon-WorkWith.html#specify-preferred-account-header-in-a-multiple-accounts-divisions-scenario
-	Account string `json:"account"`
+	Account string `json:"a-aaNpY15EaM"`
 }
 
 type LoginRequest struct {
